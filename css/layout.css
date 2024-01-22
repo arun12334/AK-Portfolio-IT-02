@@ -1017,3 +1017,26 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.resume-download-button {
+   position: absolute;
+   top: 15px;
+   right: 15px;
+   margin-left: 20px;
+   margin-top: 40px;
+ 
+ }
+ 
+ .resume-download-button a {
+   background-color: #007bff; /* Set your desired background color */
+   color: #ffffff; /* Set your desired text color */
+   padding: 10px 15px;
+   text-decoration: none;
+   border-radius: 5px;
+   font-weight: bold;
+   display: inline-block;
+ }
+ 
+ .resume-download-button a:hover {
+   background-color: #0056b3; /* Set your desired hover background color */
+ }
+ 
