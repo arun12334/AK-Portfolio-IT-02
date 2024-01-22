@@ -350,11 +350,30 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-.reactjs {
-   width: 85%;
-   -moz-animation: reactjs 2s ease;
-   -webkit-animation: reactjs 2s ease;
+.html5-css3 {
+   width: 90%;
+   -moz-animation: html5-css3 2s ease;
+   -webkit-animation: html5-css3 2s ease;
 }
+
+.github {
+   width: 70%;
+   -moz-animation: github 2s ease;
+   -webkit-animation: github 2s ease;
+}
+
+.angular-js {
+   width: 85%;
+   -moz-animation: angular-js 2s ease;
+   -webkit-animation: angular-js 2s ease;
+}
+
+.react-js {
+   width: 85%;
+   -moz-animation: react-js 2s ease;
+   -webkit-animation: react-js 2s ease;
+}
+
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
@@ -377,11 +396,16 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes javascript {
+@-moz-keyframes github {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 70%;  }
 }
-@-moz-keyframes reactjs {
+@-moz-keyframes angular-js {
+   0%   { width: 0px;  }
+   100% { width: 85%;  }
+ }
+
+@-moz-keyframes react-js {
    0%   { width: 0px;  }
    100% { width: 85%;  }
  }
@@ -406,11 +430,16 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes javascript {
+@-webkit-keyframes github {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes reactjs {
+@-webkit-keyframes html5-css3 {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+ }
+
+@-webkit-keyframes react-js {
    0%   { width: 0px;  }
    100% { width: 85%;  }
  }
@@ -1080,4 +1109,47 @@ footer .social-links li:first-child { margin-left: 0; }
    }
  }
 
+ /* Add these styles to your existing stylesheet or create a new one */
+
+ /* Add these styles to your existing stylesheet or create a new one */
+
+#contact {
+   padding: 60px 0;
+ }
+ 
+ .form-container {
+   max-width: 400px;
+   margin: 0 auto;
+   text-align: center; /* Center-align the form content */
+ }
+ 
+ .form-label {
+   display: block;
+   margin-bottom: 8px;
+   text-align: left; /* Align labels to the left */
+ }
+ 
+ .form-input {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 16px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box; /* Include padding and border in the element's total width/height */
+ }
+ 
+ .form-button {
+   background-color: #0066cc;
+   color: #fff;
+   padding: 12px 20px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+ }
+ 
+ .form-button:hover {
+   background-color: #004080;
+ }
+ 
+ /* Add more styles as needed */
  
