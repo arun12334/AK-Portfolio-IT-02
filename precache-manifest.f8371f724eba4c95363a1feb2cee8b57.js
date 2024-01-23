@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8a5be83495eb3952f707",
+    "revision": "c848f2c0a23815c78e28",
     "url": "/AK-Portfolio-IT-02/static/css/main.da762616.chunk.css"
   },
   {
-    "revision": "8a5be83495eb3952f707",
-    "url": "/AK-Portfolio-IT-02/static/js/main.8a5be834.chunk.js"
+    "revision": "c848f2c0a23815c78e28",
+    "url": "/AK-Portfolio-IT-02/static/js/main.c848f2c0.chunk.js"
   },
   {
     "revision": "9beecfe6f5b771d0687a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/AK-Portfolio-IT-02/static/media/laptop.62afe99e.jpg"
   },
   {
-    "revision": "39ed7a36b3f0ef3684ca4afc9d15fd42",
+    "revision": "62bd77453bfd956cfc4a621fe18b150d",
     "url": "/AK-Portfolio-IT-02/index.html"
   }
 ];
