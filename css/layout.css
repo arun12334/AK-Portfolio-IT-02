@@ -240,6 +240,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   /* background-color: #00CCCC; */
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -324,7 +325,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-
+ 
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
@@ -344,34 +345,40 @@ ul#nav li.current a { color: #F06000; }
   	width: 90%;
   	-moz-animation: ionic-framework 2s ease;
   	-webkit-animation: ionic-framework 2s ease;
+   border-color: #0a63bb;
 }
 .javascript {
   	width: 85%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
+   background-color: violet;
 }
 .html5-css3 {
    width: 90%;
    -moz-animation: html5-css3 2s ease;
    -webkit-animation: html5-css3 2s ease;
+   background-color: green;
 }
 
 .github {
    width: 70%;
    -moz-animation: github 2s ease;
    -webkit-animation: github 2s ease;
+   background-color: blue;
 }
 
 .angular-js {
    width: 85%;
    -moz-animation: angular-js 2s ease;
    -webkit-animation: angular-js 2s ease;
+   background-color:brown;
 }
 
 .react-js {
    width: 85%;
    -moz-animation: react-js 2s ease;
    -webkit-animation: react-js 2s ease;
+   background-color: tomato;
 }
 
 .jquery {
