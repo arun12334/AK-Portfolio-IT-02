@@ -1,15 +1,16 @@
 {
   "main.css": "/AK-Portfolio-IT-02/static/css/main.da762616.chunk.css",
-  "main.js": "/AK-Portfolio-IT-02/static/js/main.e501a3b2.chunk.js",
-  "main.js.map": "/AK-Portfolio-IT-02/static/js/main.e501a3b2.chunk.js.map",
+  "main.js": "/AK-Portfolio-IT-02/static/js/main.8a5be834.chunk.js",
+  "main.js.map": "/AK-Portfolio-IT-02/static/js/main.8a5be834.chunk.js.map",
   "static/js/1.9beecfe6.chunk.js": "/AK-Portfolio-IT-02/static/js/1.9beecfe6.chunk.js",
   "static/js/1.9beecfe6.chunk.js.map": "/AK-Portfolio-IT-02/static/js/1.9beecfe6.chunk.js.map",
   "runtime~main.js": "/AK-Portfolio-IT-02/static/js/runtime~main.365e3ba9.js",
   "runtime~main.js.map": "/AK-Portfolio-IT-02/static/js/runtime~main.365e3ba9.js.map",
   "static/media/arun.pdf": "/AK-Portfolio-IT-02/static/media/arun.ed83902f.pdf",
   "static/media/milkball.webm": "/AK-Portfolio-IT-02/static/media/milkball.3f02797c.webm",
+  "static/media/laptop.jpg": "/AK-Portfolio-IT-02/static/media/laptop.62afe99e.jpg",
   "static/css/main.da762616.chunk.css.map": "/AK-Portfolio-IT-02/static/css/main.da762616.chunk.css.map",
   "index.html": "/AK-Portfolio-IT-02/index.html",
-  "precache-manifest.5a92d3590b23aac7beaea6e9fff1f08c.js": "/AK-Portfolio-IT-02/precache-manifest.5a92d3590b23aac7beaea6e9fff1f08c.js",
+  "precache-manifest.d61aec38c94a6614e9027e8b95edf81b.js": "/AK-Portfolio-IT-02/precache-manifest.d61aec38c94a6614e9027e8b95edf81b.js",
   "service-worker.js": "/AK-Portfolio-IT-02/service-worker.js"
 }

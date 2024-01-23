@@ -371,14 +371,14 @@ ul#nav li.current a { color: #F06000; }
    width: 85%;
    -moz-animation: angular-js 2s ease;
    -webkit-animation: angular-js 2s ease;
-   background-color:brown;
+   background-color:tomato;
 }
 
 .react-js {
    width: 85%;
    -moz-animation: react-js 2s ease;
    -webkit-animation: react-js 2s ease;
-   background-color: tomato;
+   background-color: #1da6d0;
 }
 
 .jquery {
@@ -1162,4 +1162,12 @@ footer .social-links li:first-child { margin-left: 0; }
  }
  
  /* Add more styles as needed */
+ .rotated-image {
+   position: absolute;
+  height: 150px;
+  width: 150px;
+  
  
+   
+   /* Add more styles as needed */
+ }
