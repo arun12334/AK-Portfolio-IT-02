@@ -1231,14 +1231,12 @@ footer .social-links li:first-child { margin-left: 0; }
    height: 100%;
  }
 
- @media only screen and (max-width: 767px) {
+ /* @media only screen and (max-width: 767px) {
    .rotated-image1 {
-     width: 50px; /* Adjust the width for mobile */
-     height: 50px; /* Adjust the height for mobile */
-     /* animation: none; Disable animation on mobile */
-     position: relative; /* Reset position on mobile */
+      height: 100px;
+      width: 100px; 
+     position: relative;
      text-align: center;
-      /* Center text on mobile */
       animation: moveLeftToRight 10s linear infinite; 
    }
    @keyframes moveLeftToRight {
@@ -1246,4 +1244,33 @@ footer .social-links li:first-child { margin-left: 0; }
       100% { left:100%; right:0px;}
     }
 
+ } */
+
+ @media only screen and (max-width: 767px) {
+   .rotated-image1 {
+     width: 80vw; /* Adjust the width for mobile */
+     height: 80vw; /* Adjust the height for mobile */
+     animation: moveLeftToRightMobile 6s linear infinite; /* Use a different animation for mobile */
+     position: static; /* Reset position on mobile */
+     text-align: center; /* Center text on mobile */
+   }
+ 
+   @keyframes moveLeftToRightMobile {
+     0%   { left: 0; right: 100%; }
+     100% { left: 100%; right: 0; }
+   }
+ }
+ @media only screen and (min-width: 400px) {
+   .rotated-image1 {
+     width: 80vw; /* Adjust the width for mobile */
+     height: 80vw; /* Adjust the height for mobile */
+     animation: moveLeftToRightMobile 6s linear infinite; /* Use a different animation for mobile */
+     position: static; /* Reset position on mobile */
+     text-align: center; /* Center text on mobile */
+   }
+ 
+   @keyframes moveLeftToRightMobile {
+     0%   { left: 0; right: 100%; }
+     100% { left: 100%; right: 0; }
+   }
  }
