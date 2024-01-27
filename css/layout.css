@@ -1240,9 +1240,9 @@ footer .social-links li:first-child { margin-left: 0; }
  @media only screen and (max-width: 500px) {
    .rotated-image1 {
  
-      height: 100px;
-      width: 100px;
-      animation: moveLeftToRight 4s linear infinite; 
+      height: 50px;
+      width: 50px;
+      animation: moveLeftToRight 5s linear infinite; 
       position: relative;
       text-align: left;
       
