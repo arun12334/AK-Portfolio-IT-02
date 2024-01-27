@@ -1237,7 +1237,7 @@ footer .social-links li:first-child { margin-left: 0; }
  }
   */
  /* Media query for screens smaller than 480px (standard for mobile phones) */
- @media only screen and (max-width: 480px) {
+ @media only screen and (max-width: 500px) {
    .rotated-image1 {
  
       height: 100px;
