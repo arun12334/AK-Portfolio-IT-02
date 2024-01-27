@@ -1242,7 +1242,7 @@ footer .social-links li:first-child { margin-left: 0; }
  
       height: 50px;
       width: 50px;
-      animation: moveLeftToRight 8s linear infinite; 
+      animation: moveLeftToRight 6s linear infinite; 
       position: relative;
       text-align: left;
       
