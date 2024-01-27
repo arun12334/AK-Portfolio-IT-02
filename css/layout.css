@@ -1191,7 +1191,7 @@ footer .social-links li:first-child { margin-left: 0; }
  
    height: 100px;
    width: 100px;
-   animation: moveLeftToRight 6s linear infinite; 
+   animation: moveLeftToRight 8s linear infinite; 
    position: relative;
    text-align: left;
    
@@ -1204,7 +1204,7 @@ footer .social-links li:first-child { margin-left: 0; }
  
    height: 100px;
    width: 100px;
-   animation: moveLeftToRight 6s linear infinite; 
+   animation: moveLeftToRight 8s linear infinite; 
    position: relative;
    text-align: left;
    
