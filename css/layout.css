@@ -1200,6 +1200,19 @@ footer .social-links li:first-child { margin-left: 0; }
    0%   { left:0px; right:100%;}
    100% { left:100%; right:0px;}
  }
+ .rotated-image2 {
+ 
+   height: 100px;
+   width: 100px;
+   animation: moveLeftToRight 6s linear infinite; 
+   position: relative;
+   text-align: left;
+   
+  }
+  @keyframes moveLeftToRight {
+   0%   { left:0px; right:100%;}
+   100% { left:100%; right:0px;}
+ }
   
   /* @media only screen and (max-width: 768px) {
    .rotated-image1 {
@@ -1238,6 +1251,9 @@ footer .social-links li:first-child { margin-left: 0; }
       0%   { left:0px; right:100%;}
       100% { left:100%; right:0px;}
     }
+    .rotated-image2 {
+      display: none; /* Hide the element on mobile */
+    }
    
  }
  
@@ -1250,39 +1266,6 @@ footer .social-links li:first-child { margin-left: 0; }
    height: 100%;
  }
 
- /* @media only screen and (max-width: 767px) {
-   .rotated-image1 {
-      height: 100px;
-      width: 100px; 
-     position: relative;
-     text-align: center;
-      animation: moveLeftToRight 10s linear infinite; 
-   }
-   @keyframes moveLeftToRight {
-      0%   { left:0px; right:100%;}
-      100% { left:100%; right:0px;}
-    }
-
- } */
- /* @media only screen and (max-width: 767px) {
-   .rotated-image1 {
-     display: none; 
-   }
- } */
-
- /* .spring-animation {
-   animation-name: wave-animation;
-   animation-duration: 2.5s;
-   animation-iteration-count: infinite;
-   transform-origin: 70% 70%;
-   display: inline-block;
-}
-
-@keyframes wave-animation {
-   0% { transform: rotate(0deg); }
-   50% { transform: rotate(10deg); }
-   100% { transform: rotate(0deg); }
- } */
 
   
  
