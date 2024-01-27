@@ -1250,3 +1250,36 @@ footer .social-links li:first-child { margin-left: 0; }
      display: none; /* Hide the element on mobile */
    }
  }
+
+ /* .spring-animation {
+   animation-name: wave-animation;
+   animation-duration: 2.5s;
+   animation-iteration-count: infinite;
+   transform-origin: 70% 70%;
+   display: inline-block;
+}
+
+@keyframes wave-animation {
+   0% { transform: rotate(0deg); }
+   50% { transform: rotate(10deg); }
+   100% { transform: rotate(0deg); }
+ } */
+
+  
+ 
+ .spring-animation .wave {
+   display: inline-block;
+   animation-name: wave-animation;
+   animation-duration: 2.5s;
+   animation-iteration-count: infinite;
+   transform-origin: 70% 70%;
+   display: inline-block;
+ }
+ 
+ 
+ @keyframes wave-animation {
+   0% { transform: rotate(0deg); }
+   50% { transform: rotate(10deg); }
+   100% { transform: rotate(0deg); }
+ }
+ 
