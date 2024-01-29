@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e4628eb48adcf42315a5",
+    "revision": "658f13ec3fdca75b5a8d",
     "url": "/AK-Portfolio-IT-02/static/css/main.2e97f86e.chunk.css"
   },
   {
-    "revision": "e4628eb48adcf42315a5",
-    "url": "/AK-Portfolio-IT-02/static/js/main.e4628eb4.chunk.js"
+    "revision": "658f13ec3fdca75b5a8d",
+    "url": "/AK-Portfolio-IT-02/static/js/main.658f13ec.chunk.js"
   },
   {
     "revision": "9a6c6cfb24fe9c49f075",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/AK-Portfolio-IT-02/static/js/runtime~main.365e3ba9.js"
   },
   {
-    "revision": "8b9003ac74307c77b127eb0a893c3143",
-    "url": "/AK-Portfolio-IT-02/static/media/arun.8b9003ac.pdf"
+    "revision": "db993705720037a578d807232a9d5a57",
+    "url": "/AK-Portfolio-IT-02/static/media/arun.db993705.pdf"
   },
   {
     "revision": "3f02797c8b7a651c0a23fb460d7400c2",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/AK-Portfolio-IT-02/static/media/file.cae7ee3f.mp4"
   },
   {
-    "revision": "5ea4054279314480ae0ed2115d1b2d2b",
+    "revision": "a2d0ec3732b9059acbf8b3d8a46f03a4",
     "url": "/AK-Portfolio-IT-02/index.html"
   }
 ];

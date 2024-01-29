@@ -1,12 +1,12 @@
 {
   "main.css": "/AK-Portfolio-IT-02/static/css/main.2e97f86e.chunk.css",
-  "main.js": "/AK-Portfolio-IT-02/static/js/main.e4628eb4.chunk.js",
-  "main.js.map": "/AK-Portfolio-IT-02/static/js/main.e4628eb4.chunk.js.map",
+  "main.js": "/AK-Portfolio-IT-02/static/js/main.658f13ec.chunk.js",
+  "main.js.map": "/AK-Portfolio-IT-02/static/js/main.658f13ec.chunk.js.map",
   "static/js/1.9a6c6cfb.chunk.js": "/AK-Portfolio-IT-02/static/js/1.9a6c6cfb.chunk.js",
   "static/js/1.9a6c6cfb.chunk.js.map": "/AK-Portfolio-IT-02/static/js/1.9a6c6cfb.chunk.js.map",
   "runtime~main.js": "/AK-Portfolio-IT-02/static/js/runtime~main.365e3ba9.js",
   "runtime~main.js.map": "/AK-Portfolio-IT-02/static/js/runtime~main.365e3ba9.js.map",
-  "static/media/arun.pdf": "/AK-Portfolio-IT-02/static/media/arun.8b9003ac.pdf",
+  "static/media/arun.pdf": "/AK-Portfolio-IT-02/static/media/arun.db993705.pdf",
   "static/media/milkball.webm": "/AK-Portfolio-IT-02/static/media/milkball.3f02797c.webm",
   "static/media/contact.gif": "/AK-Portfolio-IT-02/static/media/contact.46efc84b.gif",
   "static/media/contact4.gif": "/AK-Portfolio-IT-02/static/media/contact4.65fdc452.gif",
@@ -15,6 +15,6 @@
   "static/media/file.mp4": "/AK-Portfolio-IT-02/static/media/file.cae7ee3f.mp4",
   "static/css/main.2e97f86e.chunk.css.map": "/AK-Portfolio-IT-02/static/css/main.2e97f86e.chunk.css.map",
   "index.html": "/AK-Portfolio-IT-02/index.html",
-  "precache-manifest.d1df54112304cd56c9aa055dc973038b.js": "/AK-Portfolio-IT-02/precache-manifest.d1df54112304cd56c9aa055dc973038b.js",
+  "precache-manifest.30e2cf437f8f288669c18602ee0d8456.js": "/AK-Portfolio-IT-02/precache-manifest.30e2cf437f8f288669c18602ee0d8456.js",
   "service-worker.js": "/AK-Portfolio-IT-02/service-worker.js"
 }
