@@ -482,6 +482,8 @@ ul#nav li.current a { color: #F06000; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   background-color: #000;
+    
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -489,8 +491,15 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: white;
+   margin-top: 20px;
+   font-size: 1.5em !important;
+
 }
+.purple {
+   color: #c770f0 !important;
+   font-size: 1.5em !important;
+ }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
@@ -1311,3 +1320,48 @@ footer .social-links li:first-child { margin-left: 0; }
    font-size: 1em;
    color: #000; /* Change the cursor color as needed */
  }
+
+
+ .tech-icons {
+   font-size: 4.5em !important;
+   margin: 15px !important;
+   padding: 10px !important;
+   opacity: 0.93 !important;
+   border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+   vertical-align: middle !important;
+   text-align: center !important;
+   border-radius: 5px !important;
+   display: table !important;
+   box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+   overflow: hidden !important;
+   transition: all 0.4s ease 0s !important;
+ }
+ 
+ @media (max-width: 767px) {
+   .tech-icons {
+     margin: 10px !important;
+   }
+ }
+ 
+ .tech-icons:hover {
+   transform: scale(1.05) !important;
+   overflow: hidden !important;
+   border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+ }
+ .tech-icon-images {
+   padding: 20px !important;
+   line-height: 1.6 !important;
+ }
+ .tech-icons-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center; /* Adjust as needed */
+   align-items: center; /* Adjust as needed */
+ }
+ 
+ .tech-icons {
+   display: flex;
+   gap: 10px;
+   color: white; /* Adjust the spacing between icons */
+ }
+ 
