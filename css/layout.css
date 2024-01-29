@@ -1364,4 +1364,22 @@ footer .social-links li:first-child { margin-left: 0; }
    gap: 10px;
    color: white; /* Adjust the spacing between icons */
  }
+ .skills-container {
+   display: flex;
+ }
  
+ .column {
+   flex: 1;
+   padding: 0 15px;
+ }
+ @media (max-width: 500px) {
+   .skills-container {
+     flex-direction: column;
+   }
+ 
+   .column {
+     flex: none;
+     width: 100%;
+     margin-bottom: 20px; /* Add some spacing between columns on mobile */
+   }
+ }
