@@ -1382,7 +1382,17 @@ footer .social-links li:first-child { margin-left: 0; }
      width: 100%;
      margin-bottom: 20px; /* Add some spacing between columns on mobile */
    }
-   
+
+   .code {
+      height: 150px;
+      width: 150px;
+      position: absolute;
+      /* margin-left: 850px; */
+      margin-bottom: 20px;
+      margin-left: 85px;
+      margin-top: 62px;
+  }
+ 
  }
 
  .code{
@@ -1390,11 +1400,13 @@ footer .social-links li:first-child { margin-left: 0; }
    width: 150px;
    position: absolute;
    margin-left: 850px;
+   margin-bottom: 20px;
  
  }
- .code1{
+ /* .code1{
    height: 150px;
    width: 150px;
    position: absolute;
+   margin-bottom: 20px;
  }
- 
+  */
