@@ -1429,7 +1429,7 @@ footer .social-links li:first-child { margin-left: 0; }
  @media (max-width: 500px) {
    .code1 {
      margin-left: 100px;
-     margin-top: 62px;
+     /* margin-top: 62px; */
      
    }
  }
