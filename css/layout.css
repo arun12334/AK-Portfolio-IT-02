@@ -1384,10 +1384,7 @@ footer .social-links li:first-child { margin-left: 0; }
    }
 
    .code {
-      height: 150px;
-      width: 150px;
-      position: absolute;
-      /* margin-left: 850px; */
+ 
       margin-bottom: 20px;
       margin-left: 85px;
       margin-top: 62px;
@@ -1395,18 +1392,21 @@ footer .social-links li:first-child { margin-left: 0; }
  
  }
 
- .code{
-   height: 150px;
-   width: 150px;
-   position: absolute;
-   margin-left: 850px;
-   margin-bottom: 20px;
- 
- }
- /* .code1{
+ .code {
    height: 150px;
    width: 150px;
    position: absolute;
    margin-bottom: 20px;
  }
-  */
+ @media (min-width: 768px) {
+   .code {
+     margin-left: 850px;
+   }
+ }
+
+ @media (max-width: 500px) {
+   .code {
+     margin-left: 85px;
+     margin-top: 62px;
+   }
+ }
